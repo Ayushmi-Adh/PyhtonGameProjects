@@ -54,9 +54,6 @@ The code is organized into several files:
 - Add a delay for the game over screen to improve user experience.
 - Refactor code for better modularity and readability.
 
-#### License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ### Turtle Race Game
 
@@ -91,9 +88,6 @@ The code is organized into several files:
 - Enhance the game by adding animations or a graphical interface.
 - Allow players to place bets on multiple turtles.
 
-#### License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ### Pong Game
 
@@ -129,6 +123,3 @@ The code is organized into several files:
 - Improve code readability and maintainability with comments and modularization.
 - Add an end game condition for better user experience.
 
-#### License
-
-This project is licensed under the [MIT License](LICENSE).

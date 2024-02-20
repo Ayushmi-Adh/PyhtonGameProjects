@@ -1,9 +1,9 @@
-# Python Game Collection
+# Python Games Collection
 
 This repository contains three simple game implementations using Python and the Turtle graphics library.
 ![giphy](https://github.com/Ayushmi-Adh/PyhtonGameProjects/assets/132826306/84704a6c-e2d0-4964-97a6-d66f0206f7b1)
 
-## Table of Contents
+## Table of Contents:
 
 - [Introduction](#introduction)
 - [Games](#games)
@@ -15,13 +15,13 @@ This repository contains three simple game implementations using Python and the 
 - [Suggestions for Improvement](#suggestions-for-improvement)
 - [License](#license)
 
-## Introduction
+## Introduction:
 
 This repository showcases Python games that offer a blend of classic arcade experiences, including Snake, Turtle Race, and Pong.
 
-## Games
+## Games:
 
-### Snake Game
+### Snake Game:
 ![snake-game](https://github.com/Ayushmi-Adh/PyhtonGameProjects/assets/132826306/610fd141-229d-431f-8e5d-14a1c483683e)
 
 #### Introduction
@@ -57,7 +57,7 @@ The code is organized into several files:
 - Refactor code for better modularity and readability.
 
 
-### Turtle Race Game
+### Turtle Race Game:
 ![raw](https://github.com/Ayushmi-Adh/PyhtonGameProjects/assets/132826306/8681102f-2b3e-4e26-81c1-660797502353)
 
 #### Introduction
@@ -92,7 +92,7 @@ The code is organized into several files:
 - Allow players to place bets on multiple turtles.
 
 
-### Pong Game
+### Pong Game:
 ![R](https://github.com/Ayushmi-Adh/PyhtonGameProjects/assets/132826306/8a53d4aa-9a58-43df-a2b3-a0807c9c7d75)
 
 #### Introduction

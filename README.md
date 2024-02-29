@@ -24,17 +24,17 @@ This repository showcases Python games that offer a blend of classic arcade expe
 ### Snake Game:
 ![snake-game](https://github.com/Ayushmi-Adh/PyhtonGameProjects/assets/132826306/610fd141-229d-431f-8e5d-14a1c483683e)
 
-#### Introduction
+#### Introduction:
 
 Snake Game is a classic arcade game where the player controls a snake to eat food and grow longer. The game continues until the snake collides with the boundaries or itself.
 
-#### Features
+#### Features:
 
 - Player-controlled snake movement
 - Food generation and consumption
 - Score tracking
 
-#### How to Play
+#### How to Play:
 
 1. Run the Python script.
 2. Use the arrow keys to control the snake's movement.

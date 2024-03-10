@@ -13,7 +13,7 @@ This repository contains three simple game implementations using Python and the 
 - [How to Play](#how-to-play)
 - [Code Structure](#code-structure)
 - [Suggestions for Improvement](#suggestions-for-improvement)
-- [License](#license)
+
 
 ## Introduction:
 

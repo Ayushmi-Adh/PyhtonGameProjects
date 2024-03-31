@@ -1,4 +1,4 @@
-# Python Games Collection
+# Python Games Collection:
 
 This repository contains three simple game implementations using Python and the Turtle graphics library.
 ![giphy](https://github.com/Ayushmi-Adh/PyhtonGameProjects/assets/132826306/84704a6c-e2d0-4964-97a6-d66f0206f7b1)

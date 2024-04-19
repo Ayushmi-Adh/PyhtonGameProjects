@@ -41,7 +41,7 @@ Snake Game is a classic arcade game where the player controls a snake to eat foo
 3. Eat the food to increase your score and snake length.
 4. The game ends when the snake collides with the boundaries or itself.
 
-#### Code Structure
+#### Code Structure:
 
 The code is organized into several files:
 

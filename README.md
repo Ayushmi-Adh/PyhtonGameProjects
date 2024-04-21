@@ -17,7 +17,7 @@ This repository contains three simple game implementations using Python and the 
 
 ## Introduction:
 
-This repository showcases Python games that offer a blend of classic arcade experiences, including Snake, Turtle Race, and Pong.
+This repository showcases Python game that offers a blend of classic arcade experiences, including Snake, Turtle Race, and Pong.
 
 ## Games:
 
